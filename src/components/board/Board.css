@@ -1,7 +1,8 @@
 .gameBoard {
-    min-height: 100vh;
-    /*width: 800px;*/
-    /*height: 800px;*/
+    /*min-height: 100vh;*/
+    margin: 10%;
+    width: 700px;
+    height: 700px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 0px;

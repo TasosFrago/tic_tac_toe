@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { TurnContext } from '../TurnContext';
 import xImage from './ximg.jpg';
-import oImage from './oimg.jpg';
+import oImage from './oimg.png';
 import placeHolder from './placeholder.png';
 
 import './Board.css'
@@ -82,7 +82,7 @@ class Board extends Component {
         let turn = this.context[this.context.length - 1];
         return(
             <div>
-            <h1>Round: {turn.turnNumber}</h1>
+            <h1>Turn: {turn.turnNumber}</h1>
             <h2>Player: {turn.player}</h2>
             <h1>{this.state.msg}</h1>
             <div className="gameBoard">
