@@ -1,5 +1,6 @@
 .gameBoard {
     margin: 10%;
+    margin-top: 3%;
     width: 700px;
     height: 700px;
     display: grid;
