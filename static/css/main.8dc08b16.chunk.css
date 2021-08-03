@@ -1,0 +1,2 @@
+.gameBoard{margin:10%;width:700px;height:700px;display:grid;grid-template-columns:repeat(3,1fr);grid-gap:0;gap:0}@media only screen and (max-width:480px){.gameBoard{margin:0;width:100%;height:100%}}.gameBoard>button{border:1px solid #000}.gameBoard>button,.gameBoard>button img{width:100%;height:100%;margin:0;padding:0}.gameBoard>button img{object-fit:cover;object-position:center}
+/*# sourceMappingURL=main.8dc08b16.chunk.css.map */
