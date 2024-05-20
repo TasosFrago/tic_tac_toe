@@ -1,0 +1,3 @@
+* Simple Tic Tac Toe game in react js
+
+This is a simple Tic Tac Toe game implemented in react js and deployed in [[https://tasosfrago.github.io/tic_tac_toe/][GitHub pages]].
